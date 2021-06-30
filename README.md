@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sonariya
+- 👋 Hi, I’m @Sonal!
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m currently learning Data Science, python, Machine learnig
 - 💞️ I’m looking to collaborate on ...
 - 📫 to reach me email at puja.sonali1994@gmail.com
 
