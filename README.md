@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sonal!
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Science, python, Machine learnig
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science, python, Machine learning
+- 💞️ I’m doing internship at Rubixe-AI
 - 📫 to reach me email at puja.sonali1994@gmail.com
 
 <!---
